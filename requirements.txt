@@ -1,0 +1,14 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
+Cython==0.29.24
+
+setuptools==58.2.0
+wheel==0.36.2
+
+-e .
